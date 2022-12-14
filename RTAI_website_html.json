@@ -1,0 +1,15 @@
+{
+    "name": "ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtEngAgrName",
+    "type": "ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_selType",
+    "status":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_selStatus",
+    "notification":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_selLegalcover",
+    "date-signature":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtGSD",
+    "date-into-force":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtDOE",
+    "date-notification":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtDON",
+    "end-implementation":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtGDOFI",
+    "composition":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtComposition",
+    "region":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_txtRegion",
+    "crossregional":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_chkCrossRegion",
+    "current-parties":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_lbltxtCurrSign",
+    "original-parties":"ContentPlaceHolder1_showRelAggreement_RTAIdCardTabContainer_BasicInfoTbPanel_lbltxtOrigSign"
+}
